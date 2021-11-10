@@ -1,6 +1,6 @@
 # Welcome To React JS Course
 
-You will learn this course React JS. This course is for beginners.
+You will learn in this course, React JS Library. This course is for beginners.
 
 ## PREREQUISITES
 
