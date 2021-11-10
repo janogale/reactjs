@@ -8,6 +8,6 @@
 
 - © <strong>Tiigsi Technology</strong>
 
-[Get Started](guide)
+[Get Started](intro/)
 
 ![color](#f0f0f0)

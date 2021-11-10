@@ -116,3 +116,7 @@ To scaffold a project using `npx` and Create React App it's just a one liner com
 1. In your browser, navigate to `http://localhost:3000`. You should see the following:
 
 `Create React App` is an officially supported way to create single-page React applications. It offers a modern build setup with no configuration [https://github.com/facebook/create-react-app](https://github.com/facebook/create-react-app)
+
+---
+
+let's start coding. 🚀

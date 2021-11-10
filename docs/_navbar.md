@@ -2,7 +2,7 @@
 
 - Course Content
 
-  - [Introduction](intro)
+  - [Introduction](intro/)
   - [module 1](module1/)
   - [module 2](module2/)
   - [module 3](module3/)
