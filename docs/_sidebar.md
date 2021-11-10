@@ -2,6 +2,8 @@
 - [Module 1](module1/)
   - [Elements](module1/)
   - [JSX](module1/jsx)
+  - [Components](module1/components)
+  - [Props](module1/props)
 - [module 2](module2/)
 - [module 3](module3/)
 - [module 4](module4/)
