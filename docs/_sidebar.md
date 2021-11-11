@@ -4,6 +4,8 @@
   - [JSX](module1/jsx)
   - [Components](module1/components)
   - [Props](module1/props)
+  - [styles](module1/styles)
+  - [images](module1/images)
 - [module 2](module2/)
 - [module 3](module3/)
 - [module 4](module4/)
