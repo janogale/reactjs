@@ -114,6 +114,24 @@ You can fix this by either:
 
 `React.Fragment` would be the parent element instead of us using a `div`.
 
+## JSX Variables and Expressions
+
+- We can add variables and expressions to our JSX using curly brackets `{}`.
+- Anything inside of these brackets `{ }` is evaluated as JavaScript.
+
+```jsx
+function App() {
+  const name = "Ali";
+  const age = 30;
+
+  return (
+    <h1>
+      My name is {name}, and I am {age} old
+    </h1>
+  );
+}
+```
+
 ## JSX vs HTML
 
 - Use of **className** instead of **class** attribute
