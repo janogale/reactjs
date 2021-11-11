@@ -132,6 +132,21 @@ function App() {
 }
 ```
 
+## Exercise
+
+Try to convert the following HTML into React using `React.createElement` and `JSX`.?
+
+```html
+<body>
+  <div id="root">
+    <div class="container">
+      <span>Hello</span>
+      <span>World</span>
+    </div>
+  </div>
+</body
+```
+
 ## JSX vs HTML
 
 - Use of **className** instead of **class** attribute
