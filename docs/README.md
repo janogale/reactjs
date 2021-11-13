@@ -71,7 +71,7 @@ This version is simplest to start with if you are a beginner. It enables you to 
 
 ## create-react-app
 
-Create React App, CRA is a scaffolder developed by Dan Abramov. With it you are able to scaffold a React application with ease and will get you up and running in no time.
+The **`create-react-app`** is an excellent tool which allows you to create and run React project very quickly. It does not take any configuration manually. This tool is wrapping all of the required dependencies like Webpack, Babel for React project itself and then you need to focus on writing React code only. This tool sets up the development environment, provides an excellent developer experience, and optimizes the app for production.
 
 ### 📌 Create a React project using npx and Create React App
 

@@ -13,3 +13,5 @@
   - [Official React Site](https://reactjs.org/)
   - [React Documentation](https://reactjs.org/docs/)
   - [Freecodecamp React Course](https://www.freecodecamp.org/learn/front-end-development-libraries/)
+  - [Download NodeJS](https://nodejs.org/en/)
+  - [Download VS Code](https://code.visualstudio.com/)
