@@ -16,9 +16,11 @@ A user interface (**UI**) is anything we put in front of users to have them inte
 - React can be developed with Andriod and iOS Apps
 - React is most used UI Library in the world today
 - React Developers are in demand in the world
+- React is a very popular framework in the world
 
 ## What can you do with React?
 
 - Build Web Apps - ReactJS
 - Build Mobile Apps - React Native
 - Build Desktop Apps - ElectronJS
+- Build Virtual Reality Apps - React VR

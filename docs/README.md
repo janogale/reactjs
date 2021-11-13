@@ -65,15 +65,7 @@ This version is simplest to start with if you are a beginner. It enables you to 
    -| index.html
    ```
 
-1. Run `npx http-server -5000` in the terminal:
-
-   ```bash
-   npx http-server -p 5000
-   ```
-
-   This will serve up your application on `http://localhost:5000`.
-
-1. Navigate to `http://localhost:5000` in your browser, you should see the text **App**.
+1. run your app with Integrated Web Server in VS Code. `live server` will start a server on port 3000.
 
 > The drawbacks to the above approach is that everything is compiled at runtime which is horribly slow but its great for learning React - but please don't put it like this in production.
 
