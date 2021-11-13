@@ -10,7 +10,25 @@ There are a few things you should know in advance before you start learning Reac
 - Basic knowledge of JavaScript and programming.
 - Basic understanding of the DOM.
 - Familiarity with ES6 syntax and features.
+
+## Required Tools
+
+- Code Editor: VS Code
 - Node.js and npm installed globally.
+- Browser: Chrome or Edge
+
+## Module 1: React Fundemantals
+
+- React Initial Setup
+- React Elements
+- JSX
+- component
+- Styling React
+- Adding Images
+- Props
+- State
+- Conditional Rendering
+- Rendering Lists
 
 # What is React?
 
@@ -38,7 +56,6 @@ A user interface (**UI**) is anything we put in front of users to have them inte
 - Build Mobile Apps - React Native
 - Build Desktop Apps - ElectronJS
 - Build Virtual Reality Apps - React VR
-
 
 ## Setting up new React JS project
 

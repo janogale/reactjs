@@ -17,6 +17,19 @@ There are a few things you should know in advance before you start learning Reac
 - Node.js and npm installed globally.
 - Browser: Chrome or Edge
 
+## Module 1: React Fundemantals
+
+- React Initial Setup
+- React Elements
+- JSX
+- component
+- Styling React
+- Adding Images
+- Props
+- State
+- Conditional Rendering
+- Rendering Lists
+
 # What is React?
 
 - React is a JavaScript library for building user interfaces.
