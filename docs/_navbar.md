@@ -10,8 +10,6 @@
   - [Home](/)
 
 - Extra Resources
-  - [Configuration](configuration.md)
-  - [Themes](themes.md)
-  - [Using plugins](plugins.md)
-  - [Markdown configuration](markdown.md)
-  - [Language highlight](language-highlight.md)
+  - [Official React Site](https://reactjs.org/)
+  - [React Documentation](https://reactjs.org/docs/)
+  - [Freecodecamp React Course](https://www.freecodecamp.org/learn/front-end-development-libraries/)
