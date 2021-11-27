@@ -66,3 +66,6 @@ function StopButton() {
   return <Button onClick={() => alert("Stop!")}>Stop Game</Button>;
 }
 ```
+
+Note: By convention, event handler props should start with `on`, followed by a capital letter. For example: `onClick`, `onRemove`, `onDelete` etc.
+
