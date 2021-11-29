@@ -76,7 +76,12 @@ display only full stack students
 const fullStackStudents = students.filter(
   (student) => student.track === "Full Stack"
 );
-<ul>{fullStackStudents}</ul>;
+
+// render only full stack students
+<ul>
+  {fullStackStudents.map((student, index) => (
+    <li key={index}>{student.name}</li>
+  ))}
 ```
 
 this will display only full stack students in the list:
